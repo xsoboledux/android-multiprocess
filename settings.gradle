@@ -1,0 +1,3 @@
+include ':troublesdk'
+include ':app'
+rootProject.name = "MultiProcessApp"
