@@ -1,3 +1,5 @@
 include ':troublesdk'
 include ':app'
 rootProject.name = "MultiProcessApp"
+include ':common'
+include ':fooremoteservice'
